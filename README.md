@@ -1,3 +1,2 @@
 # my-first-repo
-this file is for practice Git and GitHub
-Also For Understand.
+[![First GitHub Action](https://github.com/iammgovind/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/iammgovind/my-first-repo/actions/workflows/main.yml)
